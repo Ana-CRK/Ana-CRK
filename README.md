@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ana-CRK (she/her)
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning nodejs and php
