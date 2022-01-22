@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Ana-CRK (she/her)
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning nodejs and php
+- 👋 Hi, I’m Anastasiia (she/her)
+- 👩🏼‍💻 ex-linguistics, technical writer
+- 👀 I’m studiyng web dev
+- 🌱 Currently learning nodejs and php
+- 🔜 Want to try python
