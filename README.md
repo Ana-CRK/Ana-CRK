@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anastasiia (she/her)
-- 👩🏼‍💻 ex-linguistics, technical writer
+- 👩🏼‍💻 ex-linguistics
 - 👀 I’m studiyng web dev
 - 🌱 Currently learning nodejs and php
 - 🔜 Want to try python
